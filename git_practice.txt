@@ -1,0 +1,369 @@
+
+Rahul@LAPTOP-JS2EUENC MINGW64 ~ (master)
+$ cd :D\
+> ls
+bash: cd: :Dls: No such file or directory
+
+Rahul@LAPTOP-JS2EUENC MINGW64 ~ (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 ~ (master)
+$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  482G  452G   30G  94% /
+D:                    450G  197G  254G  44% /d
+
+Rahul@LAPTOP-JS2EUENC MINGW64 ~ (master)
+$ cd D:
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d
+$ pwd
+/d
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/
+ Contrast_Testing/
+ DevOps/
+ DevOps_Resume/
+'Devops Softwares'/
+ Devops_raj/
+ GAMES/
+ INTELLIPATH_CLOUD/
+'Install contrast java agent in base iamge.docx'
+ Local_Testing_Apps/
+ MY_Docs/
+'OS (C) - Shortcut.lnk'*
+ OneDriveTemp/
+ RAHUL_PT_Query/
+ RahulAfterEffect/
+ Rahul_365cloud/
+ Rahul_DaTa/
+'Rashru Wedding'/
+'STEPS for TWO NODE Primary and TWO Node standby setup creation which includes PDBs.docx'
+ Softwares/
+ Swingbench_INstall/
+'System Volume Information'/
+ assignments/
+ devops_RAHUL/
+'notepadd notes dba'/
+ obs_exp/
+ obsidian/
+ project1.png
+'python script'/
+ rahulResume.doc
+ resumes/
+ resumes.zip
+ rtr7A64.tmp
+ sachin/
+'seagate harddrive'/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d
+$ ls -l
+total 1049569
+drwxr-xr-x 1 Rahul 197121          0 Dec 14  2021 '$RECYCLE.BIN'/
+drwxr-xr-x 1 Rahul 197121          0 Jun  3 19:07  Contrast_Testing/
+drwxr-xr-x 1 Rahul 197121          0 May 16 09:11  DevOps/
+drwxr-xr-x 1 Rahul 197121          0 Jul 21  2023  DevOps_Resume/
+drwxr-xr-x 1 Rahul 197121          0 Jul 14  2023 'Devops Softwares'/
+drwxr-xr-x 1 Rahul 197121          0 Sep  6 21:58  Devops_raj/
+drwxr-xr-x 1 Rahul 197121          0 Jun  4 11:20  GAMES/
+drwxr-xr-x 1 Rahul 197121          0 Feb 27  2022  INTELLIPATH_CLOUD/
+-rw-r--r-- 1 Rahul 197121      22626 May 12 20:20 'Install contrast java agent in base iamge.docx'
+drwxr-xr-x 1 Rahul 197121          0 Jun 22 19:10  Local_Testing_Apps/
+drwxr-xr-x 1 Rahul 197121          0 Aug 11  2023  MY_Docs/
+-rwxr-xr-x 1 Rahul 197121        501 Jan  1  2024 'OS (C) - Shortcut.lnk'*
+drwxr-xr-x 1 Rahul 197121          0 Jan 10  2022  OneDriveTemp/
+drwxr-xr-x 1 Rahul 197121          0 May 16 18:18  RAHUL_PT_Query/
+drwxr-xr-x 1 Rahul 197121          0 Mar 12  2023  RahulAfterEffect/
+drwxr-xr-x 1 Rahul 197121          0 Jan 10  2022  Rahul_365cloud/
+drwxr-xr-x 1 Rahul 197121          0 Mar  8  2024  Rahul_DaTa/
+drwxr-xr-x 1 Rahul 197121          0 May  7 11:31 'Rashru Wedding'/
+-rw-r--r-- 1 Rahul 197121      16147 Oct 19  2023 'STEPS for TWO NODE Primary and TWO Node standby setup creation which includes PDBs.docx'
+drwxr-xr-x 1 Rahul 197121          0 Aug 27  2023  Softwares/
+drwxr-xr-x 1 Rahul 197121          0 Jan 24  2023  Swingbench_INstall/
+drwxr-xr-x 1 Rahul 197121          0 Apr 25  2023 'System Volume Information'/
+drwxr-xr-x 1 Rahul 197121          0 Aug 24 00:03  assignments/
+drwxr-xr-x 1 Rahul 197121          0 May 18 18:07  devops_RAHUL/
+drwxr-xr-x 1 Rahul 197121          0 Sep 19  2023 'notepadd notes dba'/
+drwxr-xr-x 1 Rahul 197121          0 Aug 25  2023  obs_exp/
+drwxr-xr-x 1 Rahul 197121          0 Aug 23 20:20  obsidian/
+-rw-r--r-- 1 Rahul 197121     411888 Jul 15  2023  project1.png
+drwxr-xr-x 1 Rahul 197121          0 May 16 18:26 'python script'/
+-rw-r--r-- 1 Rahul 197121      54784 Jul 14  2023  rahulResume.doc
+drwxr-xr-x 1 Rahul 197121          0 Jul 21  2023  resumes/
+-rw-r--r-- 1 Rahul 197121     272429 Oct 28  2021  resumes.zip
+-rw-r--r-- 1 Rahul 197121 1073741824 Apr 28  2023  rtr7A64.tmp
+drwxr-xr-x 1 Rahul 197121          0 Mar 25  2023  sachin/
+drwxr-xr-x 1 Rahul 197121          0 Jun 19  2022 'seagate harddrive'/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d
+$ cd Devops_raj
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$ ls
+Hello.py  JSON/  Otp_generator_app/  my_flask_app/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$ ls -ls
+total 1
+1 -rw-r--r-- 1 Rahul 197121 25 Sep  6 19:08 Hello.py
+0 drwxr-xr-x 1 Rahul 197121  0 Sep  6 20:46 JSON/
+0 drwxr-xr-x 1 Rahul 197121  0 Sep  6 20:37 Otp_generator_app/
+0 drwxr-xr-x 1 Rahul 197121  0 Sep  6 22:04 my_flask_app/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$ ls -l
+total 1
+-rw-r--r-- 1 Rahul 197121 25 Sep  6 19:08 Hello.py
+drwxr-xr-x 1 Rahul 197121  0 Sep  6 20:46 JSON/
+drwxr-xr-x 1 Rahul 197121  0 Sep  6 20:37 Otp_generator_app/
+drwxr-xr-x 1 Rahul 197121  0 Sep  6 22:04 my_flask_app/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$ mkdir git_learning
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj
+$ cd git_learning/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$ mkdir repo1 repo2 repo3
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$ git --version
+git version 2.46.0.windows.1
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$ ll
+total 0
+drwxr-xr-x 1 Rahul 197121 0 Sep 10 13:01 repo1/
+drwxr-xr-x 1 Rahul 197121 0 Sep 10 13:01 repo2/
+drwxr-xr-x 1 Rahul 197121 0 Sep 10 13:01 repo3/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning
+$ cd repo1
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1
+$ git init
+Initialized empty Git repository in D:/Devops_raj/git_learning/repo1/.git/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ mkdir one two three
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git commit
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.email=rajeshavhd@gmail.com
+user.name=avhadrajesh
+credential.https://git-codecommit.ap-south-1.amazonaws.com.provider=generic
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ pwd
+/d/Devops_raj/git_learning/repo1
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git add file1.txt file2.txt two/ three/
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git add .
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file1.txt
+        new file:   file2.txt
+        new file:   file3.txt
+
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git commit -m "my first commit"
+[master (root-commit) b275eff] my first commit
+ 3 files changed, 4 insertions(+)
+ create mode 100644 file1.txt
+ create mode 100644 file2.txt
+ create mode 100644 file3.txt
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git add file2.txt
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   file2.txt
+
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git commit -m "add content to second file"
+[master 7d99690] add content to second file
+ 1 file changed, 1 insertion(+)
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$ git log
+commit 7d99690934930050949ef8d5032cf4b896a4d0cc (HEAD -> master)
+Author: avhadrajesh <rajeshavhd@gmail.com>
+Date:   Thu Sep 12 19:53:23 2024 +0530
+
+    add content to second file
+
+commit b275effe819c35bd7e37c4fbc0cc469484ec67ff
+Author: avhadrajesh <rajeshavhd@gmail.com>
+Date:   Thu Sep 12 19:48:31 2024 +0530
+
+    my first commit
+
+Rahul@LAPTOP-JS2EUENC MINGW64 /d/Devops_raj/git_learning/repo1 (master)
+$
